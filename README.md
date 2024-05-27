@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Output
+<img width="1440" alt="Screenshot 2024-05-27 at 2 49 12 PM" src="https://github.com/roshanwadhai17/todo-app/assets/114663888/3fee8455-63df-4c19-8e31-288dd6340d67">
+<img width="1440" alt="Screenshot 2024-05-27 at 2 49 01 PM" src="https://github.com/roshanwadhai17/todo-app/assets/114663888/a0857365-fdad-4fb3-a132-372f9f20bfd5">
+<img width="1440" alt="Screenshot 2024-05-27 at 2 48 27 PM" src="https://github.com/roshanwadhai17/todo-app/assets/114663888/32edff62-e776-464c-802c-393aa4449b8a">
+<img width="1440" alt="Screenshot 2024-05-27 at 2 47 34 PM" src="https://github.com/roshanwadhai17/todo-app/assets/114663888/ef638a80-7674-49fe-b1a0-c79994eaa871">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
